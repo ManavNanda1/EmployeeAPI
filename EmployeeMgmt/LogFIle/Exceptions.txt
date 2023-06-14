@@ -1,0 +1,11 @@
+
+=========
+6/13/2023 6:27:12 PM
+Unable to cast object of type 'EmployeeMgmt.Model.Employee.EmployeeModel' to type 'System.Collections.Generic.IList`1[EmployeeMgmt.Model.Employee.EmployeeModel]'.
+/api/Employee/GetEmployeeById
+=========
+=========
+6/13/2023 6:27:33 PM
+Unable to cast object of type 'EmployeeMgmt.Model.Employee.EmployeeModel' to type 'System.Collections.Generic.IList`1[EmployeeMgmt.Model.Employee.EmployeeModel]'.
+/api/Employee/GetEmployeeById
+=========
